@@ -36,8 +36,7 @@ This project showcases my ability to take raw data and turn it into meaningful i
 
 Here’s a quick preview of the dashboard in action:
 
-![Preview Video](path/to/your-preview-video.mp4)  
-*Replace the above link with the relative path or URL to your video file.*
+![Preview Video](previewVedio/electricVehicleanalysis.gif)  
 
 ---
 
