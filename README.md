@@ -49,4 +49,3 @@ Here’s a quick preview of the dashboard in action:
 
 ---
 
-*If you want, I can help you with the actual video embedding or GitHub Pages setup to showcase your dashboard preview smoothly. Just ask!*
